@@ -1,1 +1,2 @@
-# magicqudrant
+# Magic Quadrant Generator
+
